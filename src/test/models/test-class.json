@@ -1,0 +1,12 @@
+{
+  "0": {
+    "cid": 0,
+    "number": "CS186",
+    "title": "Introduction to Databases and Scalable Algorithms"
+  },
+  "1": {
+    "cid": 1,
+    "number": "CS184",
+    "title": "Introduction to Computer Graphics and Imaging"
+  }
+}

@@ -1,0 +1,43 @@
+.class-list-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 85px;
+  background-color: grey;
+}
+
+.class-list {
+
+}
+
+.class-list-item {
+
+}
+
+.class-list-item a {
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.class-list-item a:hover {
+  color: white;
+}
+
+.class-list-item a:hover .class-thumbnail {
+  border-color: white;
+}
+
+.class-list-item .class-thumbnail {
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: 3px solid red;
+  box-sizing: border-box;
+  background-color: lightblue;
+  transition: border-color 0.2s ease;
+}
